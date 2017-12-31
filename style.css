@@ -191,7 +191,7 @@ pre {
     position: relative;
     z-index: 12;
     letter-spacing: 4px;
-    margin-bottom: 120px;
+    /* margin-bottom: 120px; */
 }
 .site-title a {
     position: fixed;
@@ -1054,7 +1054,7 @@ nav[role="navigation"] {
     }
     /*===== Titles =====*/
     .site-title {
-        margin-bottom: 120px;
+        /* margin-bottom: 120px; */
     }
     .site-tagline {
         margin-bottom: 60px;
@@ -1125,7 +1125,7 @@ nav[role="navigation"] {
     }
     /*===== Titles =====*/
     .site-title {
-        margin-bottom: 160px;
+        /* margin-bottom: 160px; */
     }
     .site-tagline {
         margin-bottom: 80px;
